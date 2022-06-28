@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hexeam-test/static/css/main.20daa7ca.css",
-    "main.js": "/hexeam-test/static/js/main.bda65c9f.js",
+    "main.js": "/hexeam-test/static/js/main.71a12e9e.js",
     "index.html": "/hexeam-test/index.html",
     "main.20daa7ca.css.map": "/hexeam-test/static/css/main.20daa7ca.css.map",
-    "main.bda65c9f.js.map": "/hexeam-test/static/js/main.bda65c9f.js.map"
+    "main.71a12e9e.js.map": "/hexeam-test/static/js/main.71a12e9e.js.map"
   },
   "entrypoints": [
     "static/css/main.20daa7ca.css",
-    "static/js/main.bda65c9f.js"
+    "static/js/main.71a12e9e.js"
   ]
 }
