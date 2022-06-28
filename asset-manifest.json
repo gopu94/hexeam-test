@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hexeam-test/static/css/main.20daa7ca.css",
+    "main.js": "/hexeam-test/static/js/main.bda65c9f.js",
+    "index.html": "/hexeam-test/index.html",
+    "main.20daa7ca.css.map": "/hexeam-test/static/css/main.20daa7ca.css.map",
+    "main.bda65c9f.js.map": "/hexeam-test/static/js/main.bda65c9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20daa7ca.css",
+    "static/js/main.bda65c9f.js"
+  ]
+}
